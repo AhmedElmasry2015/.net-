@@ -1,0 +1,14 @@
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe.config
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.pdb
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csprojResolveAssemblyReference.cache
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Patient.resources
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Properties.Resources.resources
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.GenerateResource.Cache
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.exe
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.pdb
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form2.resources
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form3.resources
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form4.resources
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form5.resources
+C:\Users\AhmedElmasry\Documents\Visual Studio 2015\Projects\DataBaseProject\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form6.resources
